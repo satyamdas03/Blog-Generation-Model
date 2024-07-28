@@ -100,5 +100,5 @@ Save this content into a file named `README.md` in your GitHub repository. This 
 <img src="blog1.png">
 <h2>using the blog type as researchers</h2>
 <img src="blog2.png">
-<h2>using the blog type as data analysts</h2>
+<h2>using the blog type as data scientist</h2>
 <img src="blog3.png">
