@@ -94,3 +94,8 @@ streamlit run app.py
 ```csharp
 Save this content into a file named `README.md` in your GitHub repository. This README file provides clear and concise instructions on how to set up, code, and run your blog generation app using Streamlit and the Llama2 model with `ctransformers`.
 ```
+
+### EXAMPLES OF THE OUTPUTS:
+<img src="blog1.PNG">
+<img src="blog2.PNG">
+<img src="blog3.PNG">
