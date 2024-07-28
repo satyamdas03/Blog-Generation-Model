@@ -96,6 +96,9 @@ Save this content into a file named `README.md` in your GitHub repository. This 
 ```
 
 ### EXAMPLES OF THE OUTPUTS:
+<h2>using the blog type as common people</h2>
 <img src="blog1.png">
+<h2>using the blog type as researchers</h2>
 <img src="blog2.png">
+<h2>using the blog type as data analysts</h2>
 <img src="blog3.png">
