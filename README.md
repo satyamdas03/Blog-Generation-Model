@@ -9,10 +9,6 @@ Create a new Conda environment with Python 3.9:
 ```bash
 conda create -p venv python=3.9 -y
 
-### 2. Activate Conda Environment
-Activate the Conda environment:
-conda activate D:\Blog_generation_model\venv
-
 
 
 
