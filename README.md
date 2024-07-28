@@ -81,4 +81,16 @@ def getLLamaresponse(input_text, no_words, blog_style):
 
 ### 8. Generate Blog on Submit
 Generate the blog when the submit button is clicked:
+```python
+if submit:
+    st.write(getLLamaresponse(input_text, no_words, blog_style))
+```
 
+### 9. Run the App
+Run the Streamlit app:
+```bash
+streamlit run app.py
+```
+```csharp
+Save this content into a file named `README.md` in your GitHub repository. This README file provides clear and concise instructions on how to set up, code, and run your blog generation app using Streamlit and the Llama2 model with `ctransformers`.
+```
