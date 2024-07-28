@@ -96,6 +96,6 @@ Save this content into a file named `README.md` in your GitHub repository. This 
 ```
 
 ### EXAMPLES OF THE OUTPUTS:
-<img src="blog1.PNG">
-<img src="blog2.PNG">
-<img src="blog3.PNG">
+<img src="blog1.png">
+<img src="blog2.png">
+<img src="blog3.png">
